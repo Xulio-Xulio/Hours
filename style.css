@@ -17,8 +17,21 @@ section {
 }
 
 img {
+    margin: 30px 30px;
     align-content: center;
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     border-radius: 50%;
+}
+
+div {
+    text-align: center;
+}
+
+.msg {
+    font-size: 40px;
+}
+
+div.msg {
+    font-size: 40px;
 }
